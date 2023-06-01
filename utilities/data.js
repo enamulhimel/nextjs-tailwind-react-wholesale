@@ -52,6 +52,7 @@ const data = {
       countInStock: 20,
       description: 'A popular Shirt',
     },
+
     {
       name: 'Golf Pants',
       slug: 'golf-pants',
